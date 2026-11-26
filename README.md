@@ -10,7 +10,6 @@ This repository contains a SQL script that initializes the `netflix_cloud_fundin
 ---
 
 ## 🖼️ Project Screenshots / Dashboard Preview
-> Replace the placeholder links below with your actual screenshot paths (e.g., `assets/kpi-output.png`) once uploaded to your repository.
 
 ### 1. Top KPI Summary
 ![Netflix-Cloud-Funding-SQL-Project](Top%20KPI's%20Preview.png)
